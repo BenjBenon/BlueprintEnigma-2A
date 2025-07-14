@@ -18,9 +18,9 @@ un mastermind à résoudre et un puzzle d'images à déplacer.
 
 ## Captures d’écran
 
-![Mastermind](Images/mastermind.png)
-![Puzzle](Images/pictureenigma.png)
-![Trophée de fin](Images/endtrap.png)
+![Mastermind](EnigmAAAGame/Images/mastermind.png)
+![Puzzle](EnigmAAAGame/Images/pictureenigma.png)
+![Trophée de fin](EnigmAAAGame/Images/endtrap.png)
 
 ## Auteurs
 
