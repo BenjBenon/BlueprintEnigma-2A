@@ -11,9 +11,8 @@ un mastermind à résoudre et un puzzle d'images à déplacer.
 
 ## Technologies utilisées
 
-- C#
-- Unity
-- UI tools
+- Unreal
+- Blueprints
 - Git
 
 ## Captures d’écran
@@ -25,4 +24,4 @@ un mastermind à résoudre et un puzzle d'images à déplacer.
 ## Auteurs
 
 Benjamin Benon [LinkedIn](https://www.linkedin.com/in/benjamin-benon-78b495194/)  
-Timothé Imbert
+Clément Faye [LinkedIn](https://www.linkedin.com/in/cl%C3%A9ment-faye-853142275/)
